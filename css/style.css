@@ -1,0 +1,66 @@
+.body {
+  margin: 0px;
+}
+
+.top-header {
+  height: 100vh;
+  position: relative;
+  background-image: url(https://i.postimg.cc/BQd0tt8G/pexels-photo-1229861.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.navigation {
+  padding: 12px 0;
+}
+
+.nav {
+  padding-top: 15px;
+}
+
+.navigation ul {
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+}
+
+.navigation li {
+  display: inline-block;
+  margin: 0 36px 0 0;
+  position: relative;
+}
+
+.navigation a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 41px;
+  text-transform: uppercase;
+}
+
+.page-name {
+  font-family: 'Dancing Script', cursive;
+  color: #fed136;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 41px;
+}
+
+.first tittle {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  font-style: italic;
+  letter-spacing: -1px;
+}
+
+.second-tittle {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 75px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/*# sourceMappingURL=style.css.map */
